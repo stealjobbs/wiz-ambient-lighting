@@ -1,4 +1,4 @@
-# Project Name: wiz ambient lighting
+# wiz ambient lighting
 
 ## Overview:
 
